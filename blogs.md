@@ -1,4 +1,4 @@
-Blogs/Podcasts
+Blogs/Podcasts for the good
 ===============
 
 * [Hacker News for Data Science](https://www.datatau.com/news)
